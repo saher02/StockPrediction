@@ -1,1 +1,1 @@
-# StockPrediction
+# STOCK_PREDICTION
